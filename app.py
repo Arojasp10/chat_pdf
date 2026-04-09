@@ -11,6 +11,7 @@ import platform
 
 # App title and presentation
 st.title('Generación Aumentada por Recuperación (RAG) 💬')
+st.title('Cacatuas')
 st.write("Versión de Python:", platform.python_version())
 
 # Load and display image
